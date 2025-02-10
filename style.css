@@ -370,7 +370,7 @@ footer button {
         margin-left: 75px;
       }
 }
-@media(max-width:344px){
+@media(max-width:320px){
     .nav div  {
         display: inline-block;
         margin-left: 0px;
